@@ -109,7 +109,7 @@ const Login = () => {
           <input
             type="submit"
             value="Login"
-            className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600 transition"
+            className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600 transition cursor-pointer"
           />
         </form>
         <h2 className="text-xl font-bold text-center mb-6">Register</h2>
@@ -149,7 +149,7 @@ const Login = () => {
           <input
             type="submit"
             value="Register"
-            className="w-full bg-green-500 text-white p-2 rounded hover:bg-green-600 transition"
+            className="w-full bg-green-500 text-white p-2 rounded hover:bg-green-600 transition cursor-pointer"
           />
         </form>
       </div>
